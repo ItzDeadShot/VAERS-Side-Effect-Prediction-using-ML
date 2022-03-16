@@ -8,4 +8,4 @@ Then place your username and api key in the .env folder from kaggle.json file.
 
 Now you can proceed with downloading the data and preprocessing it.
 
-At the end of this, you will be able to obtain processed data
+At the end of this, you will be able to obtain processed data.
